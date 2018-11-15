@@ -1,0 +1,14 @@
+# Directories
+History
+__Previews
+Project Outputs*
+Project Logs*
+
+# Files
+*.log
+*.htm
+*.Dat
+*.PrjPCBStructure
+*.SchDocPreview
+*.SchDotPreview
+*.PCBDocPreview
