@@ -150,41 +150,45 @@ Variation19=Designator=C4_BB5|UniqueId=\RDIGCKKV\UBGMASKT|Kind=1|AlternatePart=
 Variation20=Designator=C4_BB6|UniqueId=\DMTTWEQU\UBGMASKT|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for BMS-Board\Design Rule Check - PCB.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Version
-Value=v1.0.0
+Name=Copy
+Value=Copyright © 2018
 
 [Parameter2]
-Name=Project
-Value=BMS-Board.PrjPCB
+Name=Creator
+Value=pro3E - Team4
 
 [Parameter3]
-Name=PaperSize
-Value=A3
+Name=Desc
+Value=Battery Management System with Active Cell Balancing
 
 [Parameter4]
-Name=Number
-Value=BMS-300-000
+Name=License
+Value=MIT License
 
 [Parameter5]
 Name=Name
 Value=BMS-Board
 
 [Parameter6]
-Name=License
-Value=MIT License
+Name=Number
+Value=BMS-300-000
 
 [Parameter7]
-Name=Desc
-Value=Battery Management System with Active Cell Balancing
+Name=PaperSize
+Value=A3
 
 [Parameter8]
-Name=Creator
-Value=pro3E - Team4
+Name=Project
+Value=BMS-Board.PrjPCB
 
 [Parameter9]
-Name=Copy
-Value=Copyright © 2018
+Name=Version
+Value=v1.0.0
 
 [Configuration1]
 Name=Sources
@@ -304,42 +308,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=SIMetrixNetlist
-OutputName21=SIMetrix
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-OutputType22=SIMPLISNetlist
-OutputName22=SIMPLIS
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=XSpiceNetlist
-OutputName23=XSpice Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=HP Photosmart 6520 series (Netzwerk)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -807,36 +781,6 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Ansoft Neutral
-OutputName10=Ansoft Neutral (AutoPCB)
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=HyperLynx
-OutputName11=HyperLynx (AutoPCB)
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=Orcad v7 Capture Design
-OutputName12=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=P-CAD ASCII
-OutputName13=P-CAD ASCII (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=P-CAD V16 Schematic Design
-OutputName14=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=SiSoft
-OutputName15=SiSoft (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
