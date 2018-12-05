@@ -127,7 +127,7 @@ UniqueID=83A88BF8-E605-4550-993D-0E43B3BEDD44
 Description=Prototype
 AllowFabrication=0
 ParameterCount=0
-VariationCount=20
+VariationCount=22
 Variation1=Designator=R21|UniqueId=\BTCNEBYN|Kind=1|AlternatePart= 
 Variation2=Designator=R24|UniqueId=\TOAXSFQL|Kind=1|AlternatePart= 
 Variation3=Designator=D4_BB1|UniqueId=\ENHTHKCJ\LJWLPAFS|Kind=1|AlternatePart= 
@@ -148,6 +148,8 @@ Variation17=Designator=C4_BB3|UniqueId=\LYOMKVFD\UBGMASKT|Kind=1|AlternatePart=
 Variation18=Designator=C4_BB4|UniqueId=\SCLMNBSW\UBGMASKT|Kind=1|AlternatePart= 
 Variation19=Designator=C4_BB5|UniqueId=\RDIGCKKV\UBGMASKT|Kind=1|AlternatePart= 
 Variation20=Designator=C4_BB6|UniqueId=\DMTTWEQU\UBGMASKT|Kind=1|AlternatePart= 
+Variation21=Designator=R30|UniqueId=\WODWMERE|Kind=1|AlternatePart= 
+Variation22=Designator=R31|UniqueId=\PIQUMPMJ|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
