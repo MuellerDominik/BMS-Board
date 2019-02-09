@@ -127,7 +127,7 @@ UniqueID=83A88BF8-E605-4550-993D-0E43B3BEDD44
 Description=Prototype
 AllowFabrication=0
 ParameterCount=0
-VariationCount=17
+VariationCount=18
 Variation1=Designator=R21|UniqueId=\BTCNEBYN|Kind=1|AlternatePart= 
 Variation2=Designator=R24|UniqueId=\TOAXSFQL|Kind=1|AlternatePart= 
 Variation3=Designator=C9_FB1|UniqueId=\TGIXKTVF\XTTIPIVF|Kind=1|AlternatePart= 
@@ -145,6 +145,7 @@ Variation14=Designator=C4_BB6|UniqueId=\DMTTWEQU\UBGMASKT|Kind=1|AlternatePart=
 Variation15=Designator=R30|UniqueId=\WODWMERE|Kind=1|AlternatePart= 
 Variation16=Designator=R31|UniqueId=\PIQUMPMJ|Kind=1|AlternatePart= 
 Variation17=Designator=R10|UniqueId=\IYTMODXW|Kind=1|AlternatePart= 
+Variation18=Designator=C24|UniqueId=\RYVPHCOR|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
@@ -181,7 +182,7 @@ Value=BMS-Board.PrjPCB
 
 [Parameter9]
 Name=Version
-Value=v1.0.0
+Value=v1.0.1
 
 [Configuration1]
 Name=Sources
