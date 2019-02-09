@@ -25,6 +25,11 @@ The prototype is realized with a 4-layer printed circuit board (200 mm x 85 mm):
 * **v1.0.0**
   * Initial release
 
+## Authors
+
+* Nico Canzani ([@nicoca20](https://github.com/nicoca20 "Nico Canzani"))
+* Dominik Müller ([@MuellerDominik](https://github.com/MuellerDominik "Dominik Müller"))
+
 ## License
 
 Copyright &copy; 2018 pro3E - Team4
